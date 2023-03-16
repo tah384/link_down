@@ -1,7 +1,7 @@
 {
-    "name":"VideoDownloaderBot",
-    "description":"Download videos from various websites using this telegram bot",
-    "repository":"https://github.com/DaruaraFriends/VideoDownloaderBot",
+    "name":"LinkDownBot",
+    "description":"Download videos from various links using this telegram bot",
+    "repository":"https://github.com/0siradmin0/link_down",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
