@@ -1,6 +1,5 @@
-# Careerwill HTML Downloader Bot
+# Link Down Bot
 Download videos from various websites using this telegram bot
-Credit: Darkprince(https://github.com/DaruaraFriends)
 
 ### Bot Commands
 - /download_link - To download from links
@@ -11,6 +10,6 @@ Credit: Darkprince(https://github.com/DaruaraFriends)
 ### Heroku
 
 #### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CoolZeroHero/CareerwillHTML)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/0siradmin0/link_down)
 
 
