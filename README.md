@@ -1,5 +1,5 @@
 # Link Down Bot
-Download videos from various websites using this telegram bot
+Download videos from various links using this telegram bot
 
 ### Bot Commands
 - /download_link - To download from links
